@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhaval</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
+[![An image of @dhavaldobariya333's Holopin badges](https://holopin.me/dhavaldobariya333)](https://holopin.io/@dhavaldobariya333)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavaldobariya333&label=Profile%20views&color=0e75b6&style=flat" alt="dhavaldobariya333" /> </p>
 
 - 🌱 I’m currently learning **.Net**
