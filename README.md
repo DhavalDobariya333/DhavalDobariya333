@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavaldobariya333&label=Profile%20views&color=0e75b6&style=flat" alt="dhavaldobariya333" /> </p>
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
